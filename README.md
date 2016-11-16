@@ -1,1 +1,1 @@
-hex-color-generator
+This would generate colors everytime a spacebar is pressed 
