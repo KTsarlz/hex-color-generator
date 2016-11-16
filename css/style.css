@@ -1,0 +1,13 @@
+body {
+  font-family: Roboto, monospace;
+  font-size: 80%;
+}
+div {
+  position: relative;
+}
+.main-div{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
